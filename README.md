@@ -16,7 +16,7 @@ I'm a passionate Frontend Developer with a keen interest in building intuitive, 
 
 ## Find me around the web 🌍
 
-- [**Twitter**](https://twitter.com/shahzaib770)
+- [**Twitter**](https://twitter.com/shahzaib_sk5)
 - [**LinkedIn**](https://www.linkedin.com/in/shahzaib770)
 
 ********
