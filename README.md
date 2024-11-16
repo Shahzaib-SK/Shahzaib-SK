@@ -7,7 +7,7 @@ I'm a passionate Frontend Developer with a keen interest in building intuitive, 
 - 📝 Documenting learning curves of frontend Develoment
 - 📫 Reach me on [**LinkedIn**](https://linkedin.com/in/shahzaib770) or mail me at **shahzaibk.ch@gmail.com**
 
-## Skills ✍️
+## Expertise ✍️
 
 - 💻 HTML5 , CSS , JavaScript 
 - ⚡ Vue.js,  SASS, Tailwind CSS
