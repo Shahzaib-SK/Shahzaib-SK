@@ -9,10 +9,10 @@ I'm a passionate Frontend Developer with a keen interest in building intuitive, 
 
 ## Skills ✍️
 
-- HTML5 🌐, CSS 🎨, JavaScript 💻
-- Vue.js ⚡, SASS 🎨, Tailwind CSS 🌀
-- Responsive Design 📱, Flexbox 🧩
-- Cross-Browser Compatibility 🌍, BEM 🔧
+- 💻 HTML5 , CSS , JavaScript 
+- ⚡ Vue.js,  SASS, Tailwind CSS
+- 📱 Responsive Design, Flexbox 
+- 🌍 Cross-Browser Compatibility, BEM 
 
 ## Find me around the web 🌍
 
