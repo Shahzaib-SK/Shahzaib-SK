@@ -4,7 +4,7 @@
 
 I'm a passionate Frontend Developer with a keen interest in building intuitive, user-friendly web applications.
 
-- 📝 Documenting learning curves of frontend Develoment
+- 📝 Documenting learning curves of frontend Development
 - 📫 Reach me on [**LinkedIn**](https://linkedin.com/in/shahzaib770) or mail me at **shahzaibk.ch@gmail.com**
 
 ## Expertise ✍️
