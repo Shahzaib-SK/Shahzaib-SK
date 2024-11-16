@@ -22,16 +22,7 @@ I'm a passionate Frontend Developer with a keen interest in building intuitive, 
 ********
 
   
-<details>
-  <summary>📊 Github Stats</summary>
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
-
-</details>
-
-  #### Profile Views
-  
-![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg) 
 
 <!--
 **Shahzaib-SK/Shahzaib-SK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
